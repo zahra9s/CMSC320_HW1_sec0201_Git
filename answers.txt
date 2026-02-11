@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: We might consider using Git because it will help us work efficiently for this class’s group project, as it allows multiple people to contribute to a codebase. Git also saves and lets us access previous versions of our code, so if we make a change and it doesn’t work as expected, we can revert to a previous version.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the healthcare field. For example, data science can be used to track COVID-related data, such as which states have the highest number of cases, which demographics are most affected, and how many patients are being admitted to the hospital due to COVID.
