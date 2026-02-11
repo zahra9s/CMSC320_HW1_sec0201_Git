@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git because it will help us work efficiently for this class’s group project, as it allows multiple people to contribute to a codebase. Git also saves and lets us access previous versions of our code, so if we make a change and it doesn’t work as expected, we can revert to a previous version.
